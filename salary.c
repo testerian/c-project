@@ -2,7 +2,7 @@
 
 int main(void)
 {
-	float zp; //ежемесячная заработная плата 
+	float salary; //ежемесячная заработная плата 
 	float month; //период в месяцах
 	float result; //результат
 
